@@ -1,0 +1,31 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br32s11_1r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "J. Feuer: Corsets, Hosiery, Worsteds",
+    "dct_provenance_s": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "test-tc_br32s11_1r",
+    "solr_geom": "ENVELOPE(-84.51792223029152,-84.51522426970851,39.1020213302915,39.0993233697085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": "English",
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br32s11_1r_web.jpg",
+    "dc_subject_sm": [
+        "Hosiery industry",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Corset industry",
+        "Yarn",
+        "Worsted"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"test:geoblacklight:tc_br32s11_1r\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/test/FeatureServer/test-tc_br32s11_1r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/test-tc_br32s11_1r.zip\"}",
+    "dct_spatial_sm": [
+        "Cincinnati, Ohio, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_d": "2018-02-14T12:00:00Z"
+}

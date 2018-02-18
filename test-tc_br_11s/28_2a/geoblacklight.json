@@ -1,0 +1,31 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br11s28_2a",
+    "dc_rights_s": "Public",
+    "dc_title_s": "J.A. Pickus: Clothing, Boots, Shoes And Jewelry",
+    "dct_provenance_s": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "test-tc_br11s28_2a",
+    "solr_geom": "ENVELOPE(-98.34275713029152,-98.3400591697085,40.9266171302915,40.9239191697085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": "English",
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br11s28_2a_web.jpg",
+    "dc_subject_sm": [
+        "Shoe industry",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Boots",
+        "Clothing trade",
+        "Jewelers"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"test:geoblacklight:tc_br11s28_2a\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/test/FeatureServer/test-tc_br11s28_2a\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/test-tc_br11s28_2a.zip\"}",
+    "dct_spatial_sm": [
+        "Grand Island,  Nebraska, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_d": "2018-02-14T12:00:00Z"
+}
