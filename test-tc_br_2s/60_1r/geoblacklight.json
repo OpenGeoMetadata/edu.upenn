@@ -2,9 +2,9 @@
     "dc_identifier_s": "test:geoblacklight:tc_br2s60_1r",
     "dc_rights_s": "Public",
     "dc_title_s": "Harvey Match Co.",
-    "dct_provenance_s": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
     "geoblacklight_version": "1.0",
-    "layer_slug_s": "test-tc_br2s60_1r",
+    "layer_slug_s": "upenn-tc_br2s60_1r",
     "solr_geom": "ENVELOPE(-90.18958968029149,-90.18689171970848,38.6312102802915,38.6285123197085)",
     "dc_format_s": "Shapefile",
     "dc_language_sm": [

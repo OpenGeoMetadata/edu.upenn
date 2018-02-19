@@ -2,9 +2,9 @@
     "dc_identifier_s": "test:geoblacklight:tc_br2s58_2r",
     "dc_rights_s": "Public",
     "dc_title_s": "Jewish National Fund Bureau For America",
-    "dct_provenance_s": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
     "geoblacklight_version": "1.0",
-    "layer_slug_s": "test-tc_br2s58_2r",
+    "layer_slug_s": "upenn-tc_br2s58_2r",
     "solr_geom": "ENVELOPE(-73.99045913029151,-73.9877611697085,40.7415992802915,40.7389013197085)",
     "dc_format_s": "Shapefile",
     "dc_language_sm": [
