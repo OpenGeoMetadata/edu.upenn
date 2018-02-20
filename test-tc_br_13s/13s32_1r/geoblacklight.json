@@ -1,0 +1,35 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br13s32_1r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "M. Lieberman: Men's, Youths' & Boys' Clothing",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "North Side Of Main Street, Elkton, MD",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br13s32_1r",
+    "solr_geom": "ENVELOPE(-75.84106598029149,-75.83836801970848,39.6176409802915,39.61494301970851)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br13s32_1r_web.jpg",
+    "dc_subject_sm": [
+        "Clothing trade",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Stores, Retail",
+        "Children's clothing industry",
+        "Men's clothing industry",
+        "Men's furnishing goods"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br13s32_1r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/test/FeatureServer/upenn-tc_br13s32_1r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br13s32_1r.zip\"}",
+    "dct_spatial_sm": [
+        "Elkton,  Maryland, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z"
+}

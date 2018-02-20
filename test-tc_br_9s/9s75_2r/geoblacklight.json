@@ -1,0 +1,34 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br9s75_2r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "Hirshberg & Samuels: Boot & Shoe House",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "72 Bank Street, Opposite Post Office, Waterbury, CT",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br9s75_2r",
+    "solr_geom": "ENVELOPE(-73.0424573802915,-73.03975941970849,41.55622708029149,41.5535291197085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br9s75_2r_web.jpg",
+    "dc_subject_sm": [
+        "Shoe industry",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Boots",
+        "Stores, Retail",
+        "Shoe stores"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br9s75_2r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/test/FeatureServer/upenn-tc_br9s75_2r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br9s75_2r.zip\"}",
+    "dct_spatial_sm": [
+        "Waterbury,  Conneticut, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z"
+}

@@ -1,0 +1,32 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br31s7_4r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "S. Rosenbloom & Sons: Boot And Shoe Dealers",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "Post Office Building, Syracuse, NY",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br31s7_4r",
+    "solr_geom": "ENVELOPE(-76.15168448029151,-76.1489865197085,43.0502835302915,43.0475855697085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br31s7_4r_web.jpg",
+    "dc_subject_sm": [
+        "Shoe industry",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Boots"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br31s7_4r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/test/FeatureServer/upenn-tc_br31s7_4r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br31s7_4r.zip\"}",
+    "dct_spatial_sm": [
+        "Syracuse, New York, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z"
+}
