@@ -25,7 +25,7 @@
     "dc_type_s": "Dataset",
     "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
     "dct_issued_dt": "2018-01-14T12:00:00Z",
-    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br2s40_3r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/test/FeatureServer/upenn-tc_br2s40_3r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br2s40_3r.zip\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br2s40_3r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br2s40_3r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br2s40_3r.zip\"}",
     "dct_spatial_sm": [
         "Philadelphia, Pennsylvania, United States"
     ],
