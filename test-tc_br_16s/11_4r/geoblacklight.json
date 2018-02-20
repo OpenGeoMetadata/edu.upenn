@@ -5,7 +5,7 @@
     "dct_provenance_s": "University of Pennsylvania Libraries",
     "geoblacklight_version": "1.0",
     "layer_slug_s": "upenn-tc_br16_s11_4r",
-    "solr_geom": "ENVELOPE(null,null,null,null)",
+    "solr_geom": "ENVELOPE(-73.993011,-73.9926133,40.703911,40.7033896)",
     "dc_format_s": "Shapefile",
     "dc_language_sm": "English",
     "dc_publisher_sm": "University of Pennsylvania Libraries",
