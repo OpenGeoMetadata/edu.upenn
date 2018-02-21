@@ -1,0 +1,33 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br27s10_2r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "M. Greenberg",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "Long Island, NY",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br27s10_2r",
+    "centroid_s": "40.789142,-73.13496099999998",
+    "solr_geom": "ENVELOPE(-74.0419497,-71.85620109999999,41.1612401,40.5429789)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br27s10_2r_web.jpg",
+    "dc_subject_sm": [
+        "Paraffin wax",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Paper products"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br27s10_2r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br27s10_2r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br27s10_2r.zip\"}",
+    "dct_spatial_sm": [
+        "Long Island, New York, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z"
+}

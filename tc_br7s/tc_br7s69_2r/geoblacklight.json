@@ -1,0 +1,36 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br7s69_2r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "M. Schwartz: Men's, Youth's & Boy's Clothing",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "104 Third Street, Between Mission And Minna, San Francisco, CA",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br7s69_2r",
+    "centroid_s": "37.78608320000002,-122.40204609999999",
+    "solr_geom": "ENVELOPE(-122.4033950802915,-122.4006971197085,37.7874321802915,37.7847342197085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br7s69_2r_web.jpg",
+    "dc_subject_sm": [
+        "Clothing trade",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Stores, Retail",
+        "Children's clothing industry",
+        "Men's clothing industry",
+        "Men's furnishing goods"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br7s69_2r_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br7s69_2r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br7s69_2r.zip\"}",
+    "dct_spatial_sm": [
+        "San Francisco, California, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z"
+}
