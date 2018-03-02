@@ -1,0 +1,37 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br14s38_4r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "H. Feibelman: Boston Clothing Co.",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "40 State Street, Newburyport, MA",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br14s38_4r",
+    "centroid_s": "42.81031350000001,-70.8702845",
+    "solr_geom": "ENVELOPE(-70.8716334302915,-70.86893546970848,42.8116625302915,42.8089645697085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br14s38_4r_web.jpg",
+    "dc_subject_sm": [
+        "Clothing trade",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Stores, Retail"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br14s38_4r_web.jpg\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://dservices3.arcgis.com/9nfxWATFamVUTTGb/arcgis/services/KaplanTradeCards/WFSServer?service=wfs&request=GetFeature&typeName=KaplanTradeCards&filter=%3Cogc:Filter%3E%3Cogc:PropertyIsEqualTo%3E%3Cogc:PropertyName%3EUUID%3C/ogc:PropertyName%3E%3Cogc:Literal%3Eupenn-tc_br14s38_4r%3C/ogc:Literal%3E%3C/ogc:PropertyIsEqualTo%3E%3C/ogc:Filter%3E\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br14s38_4r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br14s38_4r.zip?raw=true\"}",
+    "dct_spatial_sm": [
+        "Newburyport, Massachusetts, United States"
+    ],
+    "dct_temporal_sm": [
+        "1883"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z",
+    "layer_id_s": "tc_br14s38_4r"
+}

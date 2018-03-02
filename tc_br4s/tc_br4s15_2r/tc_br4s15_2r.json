@@ -1,0 +1,36 @@
+{
+    "dc_identifier_s": "test:geoblacklight:tc_br4s15_2r",
+    "dc_rights_s": "Public",
+    "dc_title_s": "L.S. Mayer: Fine Grociers, Wines, Teas And Table Luxuries",
+    "dct_provenance_s": "University of Pennsylvania Libraries",
+    "dc_description_s": "70 Morrison Street, Portland, OR",
+    "geoblacklight_version": "1.0",
+    "layer_slug_s": "upenn-tc_br4s15_2r",
+    "centroid_s": "45.5176565,-122.6732919",
+    "solr_geom": "ENVELOPE(-122.6746442302915,-122.6719462697085,45.5189993302915,45.5163013697085)",
+    "dc_format_s": "Shapefile",
+    "dc_language_sm": [
+        "English"
+    ],
+    "dc_publisher_sm": "University of Pennsylvania Libraries",
+    "dc_source_sm": "http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br4s15_2r_web.jpg",
+    "dc_subject_sm": [
+        "Alcoholic beverage industry",
+        "Advertising cards",
+        "Jewish merchants",
+        "Jewish peddlers",
+        "Wine industry",
+        "Tea trade",
+        "Grocers"
+    ],
+    "dc_type_s": "Dataset",
+    "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
+    "dct_issued_dt": "2018-01-14T12:00:00Z",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br4s15_2r_web.jpg\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://dservices3.arcgis.com/9nfxWATFamVUTTGb/arcgis/services/KaplanTradeCards/WFSServer?service=wfs&request=GetFeature&typeName=KaplanTradeCards&filter=%3Cogc:Filter%3E%3Cogc:PropertyIsEqualTo%3E%3Cogc:PropertyName%3EUUID%3C/ogc:PropertyName%3E%3Cogc:Literal%3Eupenn-tc_br4s15_2r%3C/ogc:Literal%3E%3C/ogc:PropertyIsEqualTo%3E%3C/ogc:Filter%3E\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br4s15_2r\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br4s15_2r.zip?raw=true\"}",
+    "dct_spatial_sm": [
+        "Portland, Oregon, United States"
+    ],
+    "layer_geom_type_s": "Point",
+    "layer_modified_dt": "2018-02-14T12:00:00Z",
+    "layer_id_s": "tc_br4s15_2r"
+}
