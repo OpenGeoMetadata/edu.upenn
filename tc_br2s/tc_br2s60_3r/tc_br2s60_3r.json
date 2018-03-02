@@ -7,7 +7,7 @@
     "geoblacklight_version": "1.0",
     "layer_slug_s": "upenn-tc_br2s60_3r",
     "centroid_s": "40.71427,-74.00597",
-    "solr_geom": "ENVELOPE(-73.700272,-74.25909,40.477399,40.917577)",
+    "solr_geom": "ENVELOPE(-74.2590899,-73.7002721,40.9175771,40.4773991)",
     "dc_format_s": "Shapefile",
     "dc_language_sm": [
         "English"
