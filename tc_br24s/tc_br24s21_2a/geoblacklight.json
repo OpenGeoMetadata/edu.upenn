@@ -23,7 +23,7 @@
     "dc_type_s": "Dataset",
     "dct_isPartOf_sm": "Arnold and Deanne Kaplan Collection of Early American Judaica, 1555-1977, Herbert D. Katz Center for Advanced Judaic Studies, University of Pennsylvania",
     "dct_issued_dt": "2018-01-14T12:00:00Z",
-    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br24s21_2a_web.jpg\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br24s21_2a\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br24s21_2a.zip\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"http://devsceti.library.upenn.edu/kaplan_map/CityGalleries/web/tc_br24s21_2a_web.jpg\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://dservices3.arcgis.com/9nfxWATFamVUTTGb/arcgis/services/KaplanTradeCards/WFSServer?service=wfs&request=GetFeature&typeName=KaplanTradeCards&filter=%3Cogc:Filter%3E%3Cogc:PropertyIsEqualTo%3E%3Cogc:PropertyName%3EUUID%3C/ogc:PropertyName%3E%3Cogc:Literal%3Eupenn-tc_br24s21_2a%3C/ogc:Literal%3E%3C/ogc:PropertyIsEqualTo%3E%3C/ogc:Filter%3E\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/9nfxWATFamVUTTGb/arcgis/rest/services/upenntc/FeatureServer/upenn-tc_br24s21_2a\",\"http://schema.org/downloadUrl\":\"https://github.com/judaicadh/tradecards/blob/master/shapefileszip/upenn-tc_br24s21_2a.zip\"}",
     "dct_spatial_sm": [
         "Albany, New York, United States"
     ],
